@@ -14,7 +14,7 @@ SMS-спамер<br>
 • <code>apt update</code><br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
+• <code>git clone https://github.com/NeoGameYT/spammer</code><br>
 • <code>sh spymer/install.sh</code><br>
 • <code>spymer phone</code><br>
 <br>
